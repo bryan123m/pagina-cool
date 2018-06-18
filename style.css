@@ -6,4 +6,26 @@ body {
 	display: black;
 	width: 80%;
 	margin: 100px auto 0;
+	-webkit-box-shadow: 20px 21px 1px 0px rgba(185,120,120,0.92);
+   -moz-box-shadow: 20px 21px 1px 0px rgba(185,120,120,0.92);
+   box-shadow: 20px 21px 1px 0px rgba(185,120,120,0.92);
+}
+
+header {
+	background-color: #FFF;
+	padding: 1.1rem 3rem;
+}
+
+header a {
+	color: #E70000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.container {
+	background-color: #E70000;
+}
+
+.letra-blanca {
+	color: #FFF;
 }
