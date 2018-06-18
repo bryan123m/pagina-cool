@@ -26,6 +26,10 @@ header a {
 	background-color: #E70000;
 }
 
+.container h1 {
+	margin: 0;
+}
+
 .letra-blanca {
 	color: #FFF;
 }
