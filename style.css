@@ -24,12 +24,44 @@ header a {
 
 .container {
 	background-color: #E70000;
+	padding: 35px 115px
 }
 
 .container h1 {
 	margin: 0;
+	font-size: 35px
 }
 
+.container .contenido {
+	float: left;
+	width: 50%;
+	margin-top: 6rem;
+	font-size:20px
+}
+
+.container figure {
+	float: right;
+	margin-top: 0;
+}
+
+footer ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+footer ul li {
+	display: inline-block;
+	width: 25%;
+	background-color: #571212;
+	color: #E98A8A;
+	padding: 43PX;
+	margin: 0;
+}
 .letra-blanca {
 	color: #FFF;
+}
+
+.clearfix {
+	clear: both;
 }
